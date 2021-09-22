@@ -27,7 +27,21 @@ WebDev learning resources
 
 ### [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
+### [W3C.org - the web standard](https://www.w3.org/standards/)
+
 ### [DevDocs API Documentation](https://devdocs.io/) - (Almost) all documentation in one place
+
+### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+### [W3schools](https://www.w3schools.com/tags/default.asp)
+
+[Back to Top](#table-of-contents)
+
+### Courses
+
+[Online Learning: A Bachelor's Level Computer Science Program Curriculum (Updated - Dec 2020)](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+
+[Back to Top](#table-of-contents)
 
 ### Resources
 
@@ -99,6 +113,8 @@ WebDev learning resources
 ---
 
 ### JavaScript/ES6
+
+[JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
 
 [ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
 
