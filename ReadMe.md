@@ -110,6 +110,10 @@ WebDev learning resources
 
 [Responsive header in Tailwind CSS](https://daily-dev-tips.com/posts/responsive-header-in-tailwind-css/)
 
+[A Complete Guide to Flexbox by CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[flex-box manual](https://www.flexbox-manual.com/)
+
 [Back to Top](#table-of-contents)
 
 ---
