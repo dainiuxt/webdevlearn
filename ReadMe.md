@@ -3,25 +3,23 @@ WebDev learning resources
 
 ### Table of Contents
 
-[Resources](#resources)
+> [Resources](#resources)
+> [git](#git)
+> [Reading/Info](#readinginfo)
 
-[git](#git)
+> [CSS](#css)
 
-[Reading/Info](#readinginfo)
+> [JavaScript](#javascriptes6)
 
-[CSS](#css)
+> [Docker](#docker)
 
-[JavaScript](#javascriptes6)
+> [Video](#video-lessons)
 
-[Docker](#docker)
+> [Security](#security)
 
-[Video](#video-lessons)
+> [Python](#python)
 
-[Security](#security)
-
-[Python](#python)
-
-[Tasks](#taskspractice)
+> [Tasks](#taskspractice)
 
 
 ### [Tech Interview HandBook](https://techinterviewhandbook.org/)
