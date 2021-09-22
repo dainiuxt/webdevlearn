@@ -3,20 +3,75 @@
 
 #### [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
-### Reading/Info
+### Resources
 
+[Free hosting services for web developers - DEV Community](https://dev.to/josiasaurel/free-hosting-services-for-web-developers-3n4g)
 
-[A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
+[Become a programmer: The missing lessons - DEV](https://dev.to/vetswhocode/become-a-programmer-the-missing-lessons-22p2)
 
-[Designing shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+[Projects to build that would get you hired as a beginner. - DEV](https://dev.to/alindavidsin/projects-to-build-that-would-get-you-hired-as-a-beginner-3a5b)
 
-[Tips You Should know for Visual Studio Code - VSCode](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
+[Resources to become a Well-Rounded Full-Stack Developer | Azure SQL Devs’ Corner](https://devblogs.microsoft.com/azure-sql/resources-to-become-a-full-stack-well-rounded-developer/)
 
-[7 Useful VS Code extension for junior web developers - DEV Community](https://dev.to/stefirosca/7-useful-vs-code-extension-for-junior-web-developers-3pg5)
+### git
+
+[Basic git commands](https://dev.to/anisha/basic-git-commands-33ec)
+
+[A (Very) Simple Git Workflow](https://dev.to/afteralec/a-very-simple-git-workflow-54dl)
+
+[GitSheet - my git cheatsheet - DEV](https://dev.to/myrtle/gitsheet-my-git-cheatsheet-4o18)
 
 [git command ecplained with cats - easy git guide for beginners](https://girliemac.com/blog/2017/12/26/git-purr/)
 
+[Advantages of Git-flow over standard git commands - DEV](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
+
+### Reading/Info
+
+[Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
+
+[A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
+
+[Tips You Should know for Visual Studio Code - VSCode](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
+
+[Learning Tips for Programmers · We Learn Code](https://welearncode.com/learning-tips/)
+
+[7 Useful VS Code extension for junior web developers - DEV Community](https://dev.to/stefirosca/7-useful-vs-code-extension-for-junior-web-developers-3pg5)
+
 [Self tought Software Engineer thoughts on learning](https://www.reddit.com/r/learnprogramming/comments/pph1a5/selftaught_student_and_im_somewhat_regretting_how/)
+
+[4 Books that are not about computers that made me a good Software Developer](https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac)
+
+[Everything You Need to Know About Forming a Professional Support Network - CodeNewbie Community](https://community.codenewbie.org/theoriginalbpc/everything-you-need-to-know-about-forming-a-professional-support-network-4c45)
+
+[17 Website Templates HTML Free Download - DEV Community](https://dev.to/afif/border-with-gradient-and-radius-387f) 
+
+### CSS
+
+[Designing shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+
+[CSS hide scrollbars](https://daily-dev-tips.com/posts/css-hide-scrollbars/)
+
+[The Complete Guide to Centering in CSS | Modern CSS Solutions](https://moderncss.dev/complete-guide-to-centering-in-css/)
+
+[Responsive header in Tailwind CSS](https://daily-dev-tips.com/posts/responsive-header-in-tailwind-css/)
+
+### JavaScript/ES6
+
+[ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
+
+
+[What is localStorage? - DEV Community](https://dev.to/tolentinoel/what-is-localstorage-3ffh)
+
+[8 JavaScript Tips & Tricks That No One Teaches  + Giveaway - DEV Community](https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1)
+
+GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+
+[JavaScript map function: Everything you need to know - < Code Topology />](https://codetopology.com/scripts/javascript-tutorials/javascript-map-function/)
+
+### Docker
+
+[Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
+
 
 ### Video lessons
 
@@ -35,7 +90,9 @@
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
+### Python
 
+[GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
 
 
