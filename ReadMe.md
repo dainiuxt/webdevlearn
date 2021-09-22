@@ -1,11 +1,18 @@
-## WebDev learning resources
+WebDev learning resources
+=========================
 
-
-Table of Contents
-=================
+### Table of Contents
 
 [Resources](#resources)
-
+[git](#git)
+[Reading/Info](#readinginfo)
+[CSS](#css)
+[JavaScript](#javascriptes6)
+[Docker](#docker)
+[Video](#video-lessons)
+[Security](#security)
+[Python](#python)
+[Tasks](#taskspractice)
 
 
 ### [Tech Interview HandBook](https://techinterviewhandbook.org/)
@@ -22,6 +29,8 @@ Table of Contents
 
 [A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
 
+[Back to Top](#table-of-contents)
+
 ### git
 
 [Basic git commands](https://dev.to/anisha/basic-git-commands-33ec)
@@ -33,6 +42,8 @@ Table of Contents
 [git command ecplained with cats - easy git guide for beginners](https://girliemac.com/blog/2017/12/26/git-purr/)
 
 [Advantages of Git-flow over standard git commands - DEV](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
+
+[Back to Top](#table-of-contents)
 
 ### Reading/Info
 
@@ -53,6 +64,8 @@ Table of Contents
 
 [17 Website Templates HTML Free Download - DEV Community](https://dev.to/afif/border-with-gradient-and-radius-387f) 
 
+[Back to Top](#table-of-contents)
+
 ### CSS
 
 [Designing shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
@@ -62,6 +75,8 @@ Table of Contents
 [The Complete Guide to Centering in CSS | Modern CSS Solutions](https://moderncss.dev/complete-guide-to-centering-in-css/)
 
 [Responsive header in Tailwind CSS](https://daily-dev-tips.com/posts/responsive-header-in-tailwind-css/)
+
+[Back to Top](#table-of-contents)
 
 ### JavaScript/ES6
 
@@ -75,13 +90,15 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [JavaScript map function: Everything you need to know - < Code Topology />](https://codetopology.com/scripts/javascript-tutorials/javascript-map-function/)
 
+[Back to Top](#table-of-contents)
+
 ### Docker
 
 [Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
 
+[Back to Top](#table-of-contents)
 
 ### Video lessons
-
 
 [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
@@ -91,18 +108,25 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Connecting React Frontent to Flask (python) backend](https://dev.to/dev_elie/connecting-a-react-frontend-to-a-flask-backend-h1o)
 
+[Back to Top](#table-of-contents)
 
 ### Security
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
+[Back to Top](#table-of-contents)
+
 ### Python
 
 [GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
+[Back to Top](#table-of-contents)
+
 ### Tasks/Practice
 
 7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
+
+[Back to Top](#table-of-contents)
 
 ---
 
