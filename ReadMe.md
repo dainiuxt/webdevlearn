@@ -27,6 +27,8 @@ WebDev learning resources
 
 ### [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
+### [DevDocs API Documentation](https://devdocs.io/) - (Almost) all documentation in one place
+
 ### Resources
 
 [Free hosting services for web developers - DEV Community](https://dev.to/josiasaurel/free-hosting-services-for-web-developers-3n4g)
