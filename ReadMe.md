@@ -1,7 +1,14 @@
 ## WebDev learning resources
 
 
-#### [Tech Interview HandBook](https://techinterviewhandbook.org/)
+Table of Contents
+=================
+
+[Resources](#resources)
+
+
+
+### [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
 ### Resources
 
@@ -12,6 +19,8 @@
 [Projects to build that would get you hired as a beginner. - DEV](https://dev.to/alindavidsin/projects-to-build-that-would-get-you-hired-as-a-beginner-3a5b)
 
 [Resources to become a Well-Rounded Full-Stack Developer | Azure SQL Devs’ Corner](https://devblogs.microsoft.com/azure-sql/resources-to-become-a-full-stack-well-rounded-developer/)
+
+[A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
 
 ### git
 
@@ -29,7 +38,6 @@
 
 [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
 
-[A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
 
 [Tips You Should know for Visual Studio Code - VSCode](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
 
@@ -59,7 +67,6 @@
 
 [ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
 
-
 [What is localStorage? - DEV Community](https://dev.to/tolentinoel/what-is-localstorage-3ffh)
 
 [8 JavaScript Tips & Tricks That No One Teaches  + Giveaway - DEV Community](https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1)
@@ -87,20 +94,15 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 ### Security
 
-
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
 ### Python
 
 [GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
-
-
 ### Tasks/Practice
 
-
 7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
-
 
 ---
 
