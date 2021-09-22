@@ -71,6 +71,8 @@ WebDev learning resources
 
 [Advantages of Git-flow over standard git commands - DEV](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
 
+[git - the simple guide - no deep shit](https://rogerdudler.github.io/git-guide/)
+
 [Back to Top](#table-of-contents)
 
 ---
