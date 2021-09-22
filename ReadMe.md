@@ -4,21 +4,23 @@ WebDev learning resources
 ### Table of Contents
 
 > [Resources](#resources)
+> 
 > [git](#git)
+> 
 > [Reading/Info](#readinginfo)
-
+> 
 > [CSS](#css)
-
+> 
 > [JavaScript](#javascriptes6)
-
+> 
 > [Docker](#docker)
-
+> 
 > [Video](#video-lessons)
-
+> 
 > [Security](#security)
-
+> 
 > [Python](#python)
-
+> 
 > [Tasks](#taskspractice)
 
 
