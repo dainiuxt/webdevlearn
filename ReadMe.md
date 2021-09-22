@@ -23,6 +23,7 @@ WebDev learning resources
 > 
 > [Tasks](#taskspractice)
 
+---
 
 ### [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
@@ -40,6 +41,8 @@ WebDev learning resources
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### git
 
 [Basic git commands](https://dev.to/anisha/basic-git-commands-33ec)
@@ -53,6 +56,8 @@ WebDev learning resources
 [Advantages of Git-flow over standard git commands - DEV](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
 
 [Back to Top](#table-of-contents)
+
+---
 
 ### Reading/Info
 
@@ -75,6 +80,8 @@ WebDev learning resources
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### CSS
 
 [Designing shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
@@ -86,6 +93,8 @@ WebDev learning resources
 [Responsive header in Tailwind CSS](https://daily-dev-tips.com/posts/responsive-header-in-tailwind-css/)
 
 [Back to Top](#table-of-contents)
+
+---
 
 ### JavaScript/ES6
 
@@ -101,11 +110,15 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Docker
 
 [Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
 
 [Back to Top](#table-of-contents)
+
+---
 
 ### Video lessons
 
@@ -119,17 +132,23 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Security
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
 [Back to Top](#table-of-contents)
 
+---
+
 ### Python
 
 [GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
 [Back to Top](#table-of-contents)
+
+---
 
 ### Tasks/Practice
 
