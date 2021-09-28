@@ -114,6 +114,10 @@ WebDev learning resources
 
 [flex-box manual](https://www.flexbox-manual.com/)
 
+[How to select correct font size](https://pimpmytype.com/font-size/)
+ 
+[Everything about the gaps](https://css-tricks.com/minding-the-gap/)
+
 [Back to Top](#table-of-contents)
 
 ---
