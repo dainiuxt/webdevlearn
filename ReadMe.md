@@ -4,6 +4,8 @@ WebDev learning resources
 ### Table of Contents
 
 > [Resources](#resources)
+>
+> [Tools](#tools)
 > 
 > [git](#git)
 > 
@@ -34,6 +36,15 @@ WebDev learning resources
 ### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
 ### [W3schools](https://www.w3schools.com/tags/default.asp)
+
+[Back to Top](#table-of-contents)
+
+### Tools
+
+[Best Online Tools | 10015 Tools](https://10015.io/)
+
+All Tools You Need in One Box
+Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 
 [Back to Top](#table-of-contents)
 
