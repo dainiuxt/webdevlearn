@@ -56,6 +56,8 @@ Build anything online with “all-in-one toolbox”. All tools are easy-to-use, 
 
 ### Resources
 
+[A short guide to help you pick the correct HTML tag](https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9)
+
 [Free hosting services for web developers - DEV Community](https://dev.to/josiasaurel/free-hosting-services-for-web-developers-3n4g)
 
 [Become a programmer: The missing lessons - DEV](https://dev.to/vetswhocode/become-a-programmer-the-missing-lessons-22p2)
@@ -83,6 +85,8 @@ Build anything online with “all-in-one toolbox”. All tools are easy-to-use, 
 [Advantages of Git-flow over standard git commands - DEV](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
 
 [git - the simple guide - no deep shit](https://rogerdudler.github.io/git-guide/)
+
+[How to make a good `git commit` ](https://dev.to/mishmanners/how-to-make-a-good-git-commit-1ed7)
 
 [Back to Top](#table-of-contents)
 
@@ -192,6 +196,13 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 ### Tasks/Practice
 
 7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
+
+[Back to Top](#table-of-contents)
+
+### CSS templates/boilerplate
+
+[FlowBite](https://flowbite.com/docs/getting-started/introduction/
+) is an open-source collection of UI elements based on the utility-first CSS framework __Tailwind__ designed and coded by Themesberg available in Figma and as web components.
 
 [Back to Top](#table-of-contents)
 
