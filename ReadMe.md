@@ -24,6 +24,8 @@ WebDev learning resources
 > [Python](#python)
 > 
 > [Tasks](#taskspractice)
+>
+> [CSS templates/boilerplate](#css-templatesboilerplate)
 
 ---
 
