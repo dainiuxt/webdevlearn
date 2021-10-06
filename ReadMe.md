@@ -43,10 +43,9 @@ WebDev learning resources
 
 ### Tools
 
-[Best Online Tools | 10015 Tools](https://10015.io/)
+[Best Online Tools | 10015 Tools](https://10015.io/) Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 
-All Tools You Need in One Box
-Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
+[Interactive CSS Grid Generator | Layoutit Grid](https://grid.layoutit.com/)
 
 [Back to Top](#table-of-contents)
 
