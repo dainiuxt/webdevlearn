@@ -1,4 +1,4 @@
-## WebDev learning resources
+## WebDev Learning Resources
 
 [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
