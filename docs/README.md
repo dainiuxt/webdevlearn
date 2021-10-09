@@ -1,5 +1,11 @@
 ## WebDev Learning Resources
 
+This is collection of usefull resources to help progress on Your path to become a Web Developer.
+
+Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
+
+---
+
 [Tech Interview HandBook](https://techinterviewhandbook.org/)
 
 [W3C.org - the web standard](https://www.w3.org/standards/)
