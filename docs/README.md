@@ -1,45 +1,16 @@
-WebDev learning resources
-=========================
+## WebDev learning resources
 
-### Table of Contents
+[Tech Interview HandBook](https://techinterviewhandbook.org/)
 
-> [Resources](#resources)
->
-> [Tools](#tools)
-> 
-> [git](#git)
-> 
-> [Reading/Info](#readinginfo)
-> 
-> [CSS](#css)
-> 
-> [JavaScript](#javascriptes6)
-> 
-> [Docker](#docker)
-> 
-> [Video](#video-lessons)
-> 
-> [Security](#security)
-> 
-> [Python](#python)
-> 
-> [Tasks](#taskspractice)
->
-> [CSS templates/boilerplate](#css-templatesboilerplate)
+[W3C.org - the web standard](https://www.w3.org/standards/)
 
----
+[DevDocs API Documentation](https://devdocs.io/) - (Almost) all documentation in one place
 
-### [Tech Interview HandBook](https://techinterviewhandbook.org/)
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
-### [W3C.org - the web standard](https://www.w3.org/standards/)
+[W3schools](https://www.w3schools.com/tags/default.asp)
 
-### [DevDocs API Documentation](https://devdocs.io/) - (Almost) all documentation in one place
-
-### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-
-### [W3schools](https://www.w3schools.com/tags/default.asp)
-
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ### Tools
 
@@ -47,13 +18,13 @@ WebDev learning resources
 
 [Interactive CSS Grid Generator | Layoutit Grid](https://grid.layoutit.com/)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ### Courses
 
 [Online Learning: A Bachelor's Level Computer Science Program Curriculum (Updated - Dec 2020)](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ### Resources
 
@@ -71,7 +42,7 @@ WebDev learning resources
 
 [5 GitHub Repos for creating Resumes - DEV Community](https://dev.to/ns23/5-github-repos-for-creating-resumes-e3k) - Why write a resume when we can code it.
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -91,7 +62,7 @@ WebDev learning resources
 
 [How to make a good `git commit` ](https://dev.to/mishmanners/how-to-make-a-good-git-commit-1ed7)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -114,7 +85,7 @@ WebDev learning resources
 
 [17 Website Templates HTML Free Download - DEV Community](https://dev.to/afif/border-with-gradient-and-radius-387f) 
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -136,7 +107,7 @@ WebDev learning resources
  
 [Everything about the gaps](https://css-tricks.com/minding-the-gap/)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -154,7 +125,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [JavaScript map function: Everything you need to know - < Code Topology />](https://codetopology.com/scripts/javascript-tutorials/javascript-map-function/)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -162,7 +133,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -176,7 +147,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Connecting React Frontent to Flask (python) backend](https://dev.to/dev_elie/connecting-a-react-frontend-to-a-flask-backend-h1o)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -184,7 +155,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -192,7 +163,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
@@ -205,14 +176,14 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
 If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ### CSS templates/boilerplate
 
 [FlowBite](https://flowbite.com/docs/getting-started/introduction/
 ) is an open-source collection of UI elements based on the utility-first CSS framework __Tailwind__ designed and coded by Themesberg available in Figma and as web components.
 
-[Back to Top](#table-of-contents)
+[Back to Top](#webdev-learning-resources)
 
 ---
 
