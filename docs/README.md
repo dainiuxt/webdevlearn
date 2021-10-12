@@ -113,6 +113,8 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
  
 [Everything about the gaps](https://css-tricks.com/minding-the-gap/)
 
+[CSS conditional border radius](https://ishadeed.com/article/conditional-border-radius/)
+
 [Back to Top](#webdev-learning-resources)
 
 ---
