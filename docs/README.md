@@ -186,6 +186,9 @@ If you're in the same boat, we've got some great projects for you at Frontend Me
 
 [Learn **CSS** by playing games](https://tippingpoint.dev/learn-css-by-playing-games)
 
+[Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl) 
+
+
 [Back to Top](#webdev-learning-resources)
 
 ### CSS templates/boilerplate
