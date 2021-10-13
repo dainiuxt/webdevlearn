@@ -80,6 +80,8 @@ Develop fluency in 55 programming languages with our unique blend of learning, p
 
 ### git
 
+[Git Explorer](https://gitexplorer.com/): Git Command Explorer. Find the right commands you need without digging through the web.
+
 [Basic git commands](https://dev.to/anisha/basic-git-commands-33ec)
 
 [A (Very) Simple Git Workflow](https://dev.to/afteralec/a-very-simple-git-workflow-54dl)
