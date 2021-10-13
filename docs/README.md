@@ -154,6 +154,8 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [JavaScript map function: Everything you need to know - < Code Topology />](https://codetopology.com/scripts/javascript-tutorials/javascript-map-function/)
 
+[How to get the most out of the JavaScript console](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
+
 [Back to Top](#webdev-learning-resources)
 
 ### Docker
@@ -171,6 +173,8 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 [Loops vs recursion](https://youtu.be/HXNhEYqFo0o)
 
 [Connecting React Frontent to Flask (python) backend](https://dev.to/dev_elie/connecting-a-react-frontend-to-a-flask-backend-h1o)
+
+[Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - YouTube](https://www.youtube.com/watch?v=Uszj_k0DGsg&list=PL_FE-6TDRvPVNeamKYktRt5nPaVwkpXY6&index=5&t=459s)
 
 [Back to Top](#webdev-learning-resources)
 
