@@ -30,6 +30,33 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Online Learning: A Bachelor's Level Computer Science Program Curriculum (Updated - Dec 2020)](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 
+[Full stack open 2021](https://fullstackopen.com/en/)
+
+This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.
+
+The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
+
+[Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/) - learn FullStack at your own pace.
+
+[Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/) - learn Foundations, Ruby on Rails FullStack or JavaScript FullStack. Community supported free learning paths.
+
+
+### Tasks/Practice
+
+[Exercism](https://exercism.org/)
+Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
+
+7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
+
+[16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
+
+I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
+If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
+
+[Learn **CSS** by playing games](https://tippingpoint.dev/learn-css-by-playing-games)
+
+[Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl) 
+
 [Back to Top](#webdev-learning-resources)
 
 ### Resources
@@ -50,8 +77,6 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### git
 
 [Basic git commands](https://dev.to/anisha/basic-git-commands-33ec)
@@ -70,12 +95,9 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### Reading/Info
 
 [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
-
 
 [Tips You Should know for Visual Studio Code - VSCode](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
 
@@ -92,8 +114,6 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 [17 Website Templates HTML Free Download - DEV Community](https://dev.to/afif/border-with-gradient-and-radius-387f) 
 
 [Back to Top](#webdev-learning-resources)
-
----
 
 ### CSS
 
@@ -117,8 +137,6 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### JavaScript/ES6
 
 [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
@@ -135,15 +153,11 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### Docker
 
 [Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
 
 [Back to Top](#webdev-learning-resources)
-
----
 
 ### Video lessons
 
@@ -157,39 +171,17 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### Security
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
 [Back to Top](#webdev-learning-resources)
 
----
-
 ### Python
 
 [GitHub - trekhleb/learn-python](https://github.com/trekhleb/learn-python): Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
 [Learn Python from scratch](https://futurecoder.io/) Free OpenSource interactive online course.
-
-[Back to Top](#webdev-learning-resources)
-
----
-
-### Tasks/Practice
-
-7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
-
-[16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
-
-I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
-If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
-
-[Learn **CSS** by playing games](https://tippingpoint.dev/learn-css-by-playing-games)
-
-[Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl) 
-
 
 [Back to Top](#webdev-learning-resources)
 
