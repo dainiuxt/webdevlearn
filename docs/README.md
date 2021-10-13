@@ -50,8 +50,9 @@ Develop fluency in 55 programming languages with our unique blend of learning, p
 
 [16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
 
-I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
-If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
+> I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
+>
+> If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
 
 [Learn **CSS** by playing games](https://tippingpoint.dev/learn-css-by-playing-games)
 
