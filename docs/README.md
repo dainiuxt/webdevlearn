@@ -142,6 +142,10 @@ Develop fluency in 55 programming languages with our unique blend of learning, p
 
 ### JavaScript/ES6
 
+[Jasmine Documentation](https://jasmine.github.io/)
+
+> Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. 
+
 [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
 
 [ES6 Handbook: Everything You Need to Know](https://dev.to/shreya/es6-handbook-everything-you-need-to-know-1ea7)
