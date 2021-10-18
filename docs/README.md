@@ -100,6 +100,8 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [How to make a good `git commit` ](https://dev.to/mishmanners/how-to-make-a-good-git-commit-1ed7)
 
+[Rewriting git history (amend/rebase)](https://dev.to/okimotomizuho/open-source-rewriting-git-historyamendrebase-ada)
+
 [Back to Top](#webdev-learning-resources)
 
 ### Reading/Info
