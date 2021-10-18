@@ -73,6 +73,8 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [A career in web development in 2021](https://dev.to/shahilalit/a-career-in-web-development-in-2021-lan)
 
+[Emmet shortcuts and docs](https://docs.emmet.io/abbreviations/)
+
 [5 GitHub Repos for creating Resumes - DEV Community](https://dev.to/ns23/5-github-repos-for-creating-resumes-e3k) - Why write a resume when we can code it.
 
 **[Back to Top &uarr;](#webdev-learning-resources)**
@@ -205,8 +207,7 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 ### CSS templates/boilerplate
 
-[FlowBite](https://flowbite.com/docs/getting-started/introduction/
-) is an open-source collection of UI elements based on the utility-first CSS framework __Tailwind__ designed and coded by Themesberg available in Figma and as web components.
+[FlowBite](https://flowbite.com/docs/getting-started/introduction/) is an open-source collection of UI elements based on the utility-first CSS framework __Tailwind__ designed and coded by Themesberg available in Figma and as web components.
 
 **[Back to Top &uarr;](#webdev-learning-resources)**
 
