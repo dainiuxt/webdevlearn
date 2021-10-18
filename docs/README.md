@@ -16,7 +16,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [W3schools](https://www.w3schools.com/tags/default.asp)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Tools
 
@@ -24,7 +24,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Interactive CSS Grid Generator | Layoutit Grid](https://grid.layoutit.com/)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Courses
 
@@ -40,6 +40,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/) - learn Foundations, Ruby on Rails FullStack or JavaScript FullStack. Community supported free learning paths.
 
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Tasks/Practice
 
@@ -56,7 +57,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl) 
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Resources
 
@@ -74,13 +75,13 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [5 GitHub Repos for creating Resumes - DEV Community](https://dev.to/ns23/5-github-repos-for-creating-resumes-e3k) - Why write a resume when we can code it.
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Useful tools
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### git
 
@@ -102,7 +103,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Rewriting git history (amend/rebase)](https://dev.to/okimotomizuho/open-source-rewriting-git-historyamendrebase-ada)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Reading/Info
 
@@ -122,7 +123,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [17 Website Templates HTML Free Download - DEV Community](https://dev.to/afif/border-with-gradient-and-radius-387f) 
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### CSS
 
@@ -144,7 +145,7 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [CSS conditional border radius](https://ishadeed.com/article/conditional-border-radius/)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### JavaScript/ES6
 
@@ -166,13 +167,13 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [How to get the most out of the JavaScript console](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Docker
 
 [Using Docker in development the right way - DEV Community](https://dev.to/leandronsp/using-docker-in-development-the-right-way-15j3)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Video lessons
 
@@ -186,13 +187,13 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - YouTube](https://www.youtube.com/watch?v=Uszj_k0DGsg&list=PL_FE-6TDRvPVNeamKYktRt5nPaVwkpXY6&index=5&t=459s)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Security
 
 [SQL injection](https://www.youtube.com/watch?v=ciNHn38EyRc)
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Python
 
@@ -200,14 +201,14 @@ GitHub - trekhleb/javascript-algorithms:  [Algorithms and data structures implem
 
 [Learn Python from scratch](https://futurecoder.io/) Free OpenSource interactive online course.
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### CSS templates/boilerplate
 
 [FlowBite](https://flowbite.com/docs/getting-started/introduction/
 ) is an open-source collection of UI elements based on the utility-first CSS framework __Tailwind__ designed and coded by Themesberg available in Figma and as web components.
 
-[Back to Top](#webdev-learning-resources)
+**[Back to Top &uarr;](#webdev-learning-resources)**
 
 ---
 
