@@ -44,15 +44,13 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 ### Tasks/Practice
 
 [Exercism](https://exercism.org/)
-Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
+> Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
+> 
+> 7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
 
-7GUIs [7 Graphical User Interfaces](https://7guis.bradwoods.io/) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla HTML, CSS & JavaScript. Click a link below to see a description of a task, the rendered GUI & links to its code.
+[Frontend Mentor | Front-end coding challenges using a real-life workflow](https://www.frontendmentor.io/)
 
-[16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
-
-> I wouldn't even know where to begin if someone asked me to create something beautiful from scratch! But, if a designer hands me a design I'll more than happily code it up.
->
-> If you're in the same boat, we've got some great projects for you at Frontend Mentor. Each one includes mobile & desktop designs, a front-end style guide (for fonts, colors, etc) and a basic brief. The assets are all provided and pre-optimized meaning all you need to focus on is writing the code!
+> Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 234,822 developers building projects, reviewing code, and helping each other get better.
 
 [Learn **CSS** by playing games](https://tippingpoint.dev/learn-css-by-playing-games)
 
