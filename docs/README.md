@@ -147,6 +147,10 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [CSS conditional border radius](https://ishadeed.com/article/conditional-border-radius/)
 
+[CSS Units Guide, everything you need to know](https://webinuse.com/css-units-guide-everything-you-need-to-know/)
+
+[Native CSS nesting: What you need to know](https://blog.logrocket.com/native-css-nesting/)
+
 **[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### JavaScript/ES6
