@@ -105,6 +105,8 @@ Built with [docsify](https://docsify.js.org/#/), hosted on GitHub Pages.
 
 [Rewriting git history (amend/rebase)](https://dev.to/okimotomizuho/open-source-rewriting-git-historyamendrebase-ada)
 
+[Git rebase tutorial. Rebase vs Merge - video](https://youtu.be/kMvLn8WcAII)
+
 **[Back to Top &uarr;](#webdev-learning-resources)**
 
 ### Reading/Info
